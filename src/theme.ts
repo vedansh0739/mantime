@@ -1,5 +1,7 @@
 import { createTheme } from '@mantine/core';
 
+// Your theme configuration is merged with default theme
 export const theme = createTheme({
-  /** Put your mantine theme override here */
+  fontFamily: '',
+  
 });
